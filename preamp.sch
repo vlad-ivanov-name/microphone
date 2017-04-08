@@ -1,38 +1,10 @@
 EESchema Schematic File Version 2
-LIBS:preamp-rescue
-LIBS:power
 LIBS:device
-LIBS:transistors
+LIBS:power
 LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
-LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:opa172
 LIBS:pj-324
+LIBS:opa172
 LIBS:cmic
-LIBS:preamp-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
@@ -378,7 +350,7 @@ F 3 "" H 2100 5300 50  0000 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L INDUCTOR L101
+L L L101
 U 1 1 5896358B
 P 7650 2100
 F 0 "L101" V 7600 2100 50  0000 C CNN
@@ -457,7 +429,7 @@ $EndComp
 NoConn ~ 8400 4200
 NoConn ~ 8400 4100
 $Comp
-L INDUCTOR L102
+L L L102
 U 1 1 5896EBD2
 P 8700 2100
 F 0 "L102" V 8650 2100 50  0000 C CNN
@@ -637,20 +609,20 @@ Connection ~ 5500 3300
 Wire Wire Line
 	4800 3800 4800 3675
 Wire Wire Line
-	7950 2100 8400 2100
+	7800 2100 8550 2100
 Wire Wire Line
 	8150 2100 8150 2300
 Wire Wire Line
 	8150 2600 8150 2750
 Wire Wire Line
-	6950 2100 7350 2100
+	6950 2100 7500 2100
 Wire Wire Line
 	6950 2200 7250 2200
 Wire Wire Line
 	7250 2200 7250 2750
 Connection ~ 8150 2100
 Wire Wire Line
-	9000 2100 9800 2100
+	8850 2100 9800 2100
 Wire Wire Line
 	9350 1800 9350 2300
 Wire Wire Line
