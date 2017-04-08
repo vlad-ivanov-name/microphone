@@ -1,0 +1,13 @@
+*.drl
+*.gbr
+
+merged/*.drl
+merged/*.zip
+merged/*.gbl
+merged/*.gbo
+merged/*.gbs
+merged/*.gml
+merged/*.gtl
+merged/*.gto
+merged/*.gts
+merged/*.xln

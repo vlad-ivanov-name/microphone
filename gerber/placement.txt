@@ -1,0 +1,7 @@
+Row {
+	Col {
+		preamp
+		preamp-power
+	}
+}
+
