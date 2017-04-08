@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name PJ-324)(type KiCad)(uri "$(KIPRJMOD)/fp/PJ-324.pretty")(options "")(descr ""))
+  (lib (name USB-MICRO-B)(type KiCad)(uri "$(KIPRJMOD)/fp/USB-MICRO-B.pretty")(options "")(descr ""))
+  (lib (name BOARD-CONNECT)(type KiCad)(uri "$(KIPRJMOD)/fp/BOARD-CONNECT.pretty")(options "")(descr ""))
+  (lib (name CMIC)(type KiCad)(uri "$(KIPRJMOD)/fp/CMIC.pretty")(options "")(descr ""))
+)
