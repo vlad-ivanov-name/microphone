@@ -362,4 +362,14 @@ $EndComp
 Wire Wire Line
 	6650 2750 6650 2450
 Connection ~ 7000 2750
+Wire Notes Line
+	5700 3025 5950 3025
+Wire Notes Line
+	5950 3025 5950 3400
+Wire Notes Line
+	5700 3400 5950 3400
+Wire Notes Line
+	5700 2500 5700 3400
+Text Notes 5700 2475 0    60   ~ 0
+DNP
 $EndSCHEMATC
